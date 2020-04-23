@@ -1,0 +1,165 @@
+
+#logo{
+    cursor:pointer;
+}
+
+.navbar{
+    position:fixed-top;
+    top:0;
+}
+.navbar_links{
+	margin-top: 10px;
+	color:purple;
+	font-size: 0.8em;
+	color:#4a5e91;
+	font-weight: bold;
+} 
+.nav_btn{
+	background-color:#e6461a;
+	color:white;
+}
+.body_top{
+  background-image: url("images/header_bg.png");
+  background-position: right ; 
+  background-repeat: no-repeat;
+  background-color: #19518c;
+  cursor:pointer;
+  height : 500px;
+position: -webkit-sticky; 
+position: sticky;
+top: 0;
+}
+.special{
+     position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+}
+.btn_top{
+	background-color: #1fb31a;
+	color:white;
+	border-radius: 0%;
+	width: 29vw;
+    border: none;
+    margin: 0 auto;
+    height: 3em;
+    padding-top: 6px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 2px;
+    margin-top: 5px;
+    box-shadow: 0 2px 2px 0 #024389;
+    cursor: pointer;
+   
+}
+.cardx{
+	 background-color: #19518c;
+	 border:none;
+     
+}
+.card_p{
+	color: #8dbdf0;
+	margin-left: 22px;
+
+}
+.font1{
+	font-family: 'Manrope', sans-serif;
+    display: block;
+    margin-block-start: 4em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 3px;
+    margin-inline-end: 3px;
+    text-transform: none;
+    font-size: 31px;
+    font-weight: 800;
+    color: white;
+    padding-left: 1em;
+
+}
+h2{
+color: #708aa5;
+    text-transform: none;
+    font-size: 21px;
+    font-weight: 800;
+    letter-spacing: 0.8;
+    margin: 24px 0 12px 15px;
+}
+.image {
+	max-width: 520px;
+    border-radius: 3px;
+}
+.explore_image{
+height:100px;
+width: 70px;
+margin-right: 80px;
+margin-left: 80px;
+margin-top: 30px;
+}
+.card_title{
+margin-right: 30px;
+margin-left: 40px;
+color: #363b42;
+}
+.card_btn{
+    padding: 10px 10px 10px 0;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.8px;
+    color: #de042e;
+    cursor:pointer;
+    text-transform: uppercase;
+}
+.card-text{
+    color: #2b4547;
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+}
+.jumbo_hed{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 800;
+    margin: 10px 0 0 0;
+    color: #4d5054;
+}
+#jumbo_para{
+    font-size: 17px;
+    color:grey;
+    font-weight: 400;
+}
+.con_hed{
+
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 10px 0 0 0;
+    color: #4d5054;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.con_text{
+    font-size: 0.5rem;
+    color: #59688c;
+    font-family: 'proximaNova';
+}
+.dark_jum{
+    background-color: #3b3d3c;
+    border-radius: 0;
+}
+.shrink{
+    padding:20px 0;
+}
+.list-group{
+    border-width: 0px;
+}
+.j_text{
+    color:white;
+    background-color:#3b3d3c ;
+    border:none;
+    cursor: pointer;
+    font-family: 'Source Serif Pro', serif;
+}
